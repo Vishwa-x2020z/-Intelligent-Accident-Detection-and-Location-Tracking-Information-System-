@@ -1,2 +1,0 @@
-# -Intelligent-Accident-Detection-and-Location-Tracking-Information-System-
-This project focuses on enhancing road safety and emergency response systems through intelligent accident detection and precise location tracking. Using advanced sensor technology and real-time data analysis, the system aims to detect accidents automatically and alert the necessary authorities or emergency contacts with exact location details.
